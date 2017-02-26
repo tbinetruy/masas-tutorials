@@ -56,6 +56,7 @@
 
 .navbar--wrapper .header--wrapper {
 	display: flex;	
+	align-items: center;
 }
 
 .navbar--wrapper .header--wrapper .profile-pic {
@@ -66,11 +67,20 @@
 .navbar--wrapper .header--wrapper .username {
 	position: inherit;
 	bottom: inherit;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .navbar--wrapper .page-links--wrapper {
 	flex-direction: row;
 	justify-content: flex-end;
+}
+
+.navbar--wrapper .page-links--wrapper .link {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 }
