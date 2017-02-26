@@ -2,6 +2,8 @@
 	border: 4px solid red;
 	width: 20rem;
 	height: 100%;
+	display: flex;
+	flex-direction: column;
 }
 
 .navbar--wrapper .header--wrapper {
@@ -24,6 +26,9 @@
 
 .navbar--wrapper .page-links--wrapper {
 	border: 4px solid blue;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
 }
 
 .navbar--wrapper .page-links--wrapper .link {
