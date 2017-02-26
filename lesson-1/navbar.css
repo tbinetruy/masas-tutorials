@@ -39,7 +39,7 @@
 .navbar--wrapper .footer--wrapper {
 	border: 4px solid green;
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 }
 
 .navbar--wrapper .footer--wrapper .link {
