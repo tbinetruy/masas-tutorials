@@ -6,6 +6,7 @@
 
 .navbar--wrapper .header--wrapper {
 	border: 4px solid green;
+	position: relative;
 }
 
 .navbar--wrapper .header--wrapper .profile-pic {
@@ -17,6 +18,8 @@
 
 .navbar--wrapper .header--wrapper .username {
 	border: 4px solid purple;
+	position: absolute;
+	bottom: 0;
 }
 
 .navbar--wrapper .page-links--wrapper {
