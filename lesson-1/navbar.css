@@ -68,4 +68,9 @@
 	bottom: inherit;
 }
 
+.navbar--wrapper .page-links--wrapper {
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
 }
