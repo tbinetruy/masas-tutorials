@@ -1,1 +1,31 @@
+.navbar--wrapper {
+	border: 4px solid red;
+}
 
+.navbar--wrapper .header--wrapper {
+	border: 4px solid green;
+}
+
+.navbar--wrapper .header--wrapper .profile-pic {
+	border: 4px solid orange;
+}
+
+.navbar--wrapper .header--wrapper .username {
+	border: 4px solid purple;
+}
+
+.navbar--wrapper .page-links--wrapper {
+	border: 4px solid blue;
+}
+
+.navbar--wrapper .page-links--wrapper .link {
+	border: 4px solid green;
+}
+
+.navbar--wrapper .footer--wrapper {
+	border: 4px solid green;
+}
+
+.navbar--wrapper .footer--wrapper .link {
+	border: 4px solid red;
+}
