@@ -92,7 +92,9 @@
 }
 
 .navbar--wrapper .footer--wrapper .masas-logo {
-	display: block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 }
